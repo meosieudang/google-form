@@ -1,0 +1,67 @@
+
+.route-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.route-wrapper > div {
+  position: absolute;
+  overflow: hidden;
+}
+
+
+
+
+.container{
+    width: 37%;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 3%;
+    padding: 1%;
+    text-align: center;
+    height: 560px;
+}
+.link-next{
+  text-decoration: none;
+}
+.register{
+  margin-left: 10px;
+  font-size: 14px;
+}
+.form-group-1{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.error{
+  font-size: 14px;
+  color: red;
+}
+.form-control-1{
+  width: 50%;
+}
+
+.google-img{
+  width: 18%;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+.text-login{
+  font-size: 24px !important;
+}
+.text-more{
+  text-align: left;
+  margin-left: 22px;
+  margin-top: 10px;
+}
+b{
+  color: #1a73e8
+}
+.text-error{
+  font-size: 14px;
+}
+.outline:focus{
+  outline: 0;
+}
+
